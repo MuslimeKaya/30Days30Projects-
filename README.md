@@ -1,16 +1,14 @@
-
-# 30 Gün 30 Proje
-
----
-
-## Genel Bakış:
-- Bu repo, tamamen proje odaklı olup özellikle yeni başlayanlar için temel projeleri içerir.
-- HTML, CSS ve JavaScript ile ilgili toplamda 30 mini projeden oluşmaktadır.
-- Her projeye ait kaynak kodlara ve proje detaylarına aşağıdaki "Projeler" tablosundan ulaşabilirsiniz.
+# 30 Days 30 Projects
 
 ---
 
-## Organizasyon:
-- Projeler klasörler halinde düzenlenmiştir.
-- İlgili projeye tıklayarak kaynak kodlara erişebilir ve adımları inceleyebilirsiniz.
+## Overview:
+- This repository is entirely project-based and is tailored for beginners looking to build foundational skills.
+- It contains 30 mini projects focusing on HTML, CSS, and JavaScript.
+- You can easily access the source code and project details in the "Projects" section below.
 
+---
+
+## Organization:
+- Projects are organized into folders for easy navigation.
+- Click on any project in the "Projects" section to explore its source code and learn more.
